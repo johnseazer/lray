@@ -1,0 +1,12 @@
+{
+	"cameras":
+	[
+		{"ox":0,"oy":0,"oz":5,"tx":0,"ty":0,"tz":0}
+	],
+
+	"objects":
+	[
+		{"type":"sphere", "cx":0, "cy":1, "cz":0, "radius":1.0, "r":0.5, "g":0.5, "b":1.0},
+		{"type":"sphere", "cx":-1, "cy":0, "cz":1, "radius":0.5, "r":1.0, "g":0.5, "b":0.5}
+	]
+}
